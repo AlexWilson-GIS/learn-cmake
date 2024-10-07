@@ -1,0 +1,3 @@
+[submodule "submodule/submodules/SimpleMath"]
+	path = submodule/submodules/SimpleMath
+	url = git@github.com:hant-hub/SimpleMath.git
