@@ -1,3 +1,6 @@
 [submodule "submodule/submodules/SimpleMath"]
 	path = submodule/submodules/SimpleMath
 	url = git@github.com:hant-hub/SimpleMath.git
+[submodule "staticLibraryAndsubmoduleWithCMake/submodules/glfw"]
+	path = staticLibraryAndsubmoduleWithCMake/submodules/glfw
+	url = git@github.com:glfw/glfw.git
