@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd myApp/out/build
+cd out/build
 make
